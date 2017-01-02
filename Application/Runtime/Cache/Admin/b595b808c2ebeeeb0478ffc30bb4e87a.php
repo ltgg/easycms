@@ -1,0 +1,1 @@
+<?php if (!defined('THINK_PATH')) exit();?>hello <?php echo ($_SESSION['user']['username']); ?>
